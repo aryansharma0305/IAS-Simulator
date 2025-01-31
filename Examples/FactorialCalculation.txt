@@ -1,0 +1,7 @@
+LDIM V(6) , STOR M(500)       
+LDIM V(1) , STOR M(501)       
+LDIM V(1) , STOR M(502)       
+LOAD M(501) , MUL M(500)
+STOR M(501) , LOAD M(500)
+SUB M(502) , STOR M(500)
+JUMPL+ M(3) , HALT
