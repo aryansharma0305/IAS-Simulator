@@ -67,3 +67,4 @@ Flag : `-a` for executing all instructions without stopping
 5. **Reverse a Number**
 6. **Prime Number Checker**
 7. **Fibonacci Sequence**
+   And Many More!
